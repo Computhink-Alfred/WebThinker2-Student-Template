@@ -3,6 +3,7 @@
         "vscode": {
             "extensions": [
                 "ms-vsliveshare.vsliveshare",  // Live Share extension
+                "ritwickdey.LiveServer"  // Live Server extension
                 "ms-vscode.live-server"  // Live Preview extension
             ]
         }
